@@ -15,10 +15,7 @@ import java.awt.event.ItemEvent;
  */
 public class CpCalculator extends javax.swing.JFrame {
     
-    // constants
-    // java 6 is horrible - i have a nicer java 1.7 codebase I had to downgrade
-    // so here is a new version number
-    public static final String VERSION = "0.1 JAVA6";
+    public static final String VERSION = "0.1";
 
     // view state
     private Boolean isExtended;
